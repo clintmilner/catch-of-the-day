@@ -19,7 +19,7 @@ module.exports = {
   fish3 : {
     name : 'Sea Scallops',
     image : 'http://i.istockimg.com/file_thumbview_approve/58624176/5/stock-photo-58624176-scallops-on-black-stone-plate.jpg',
-    desc : 'Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound',
+    desc : 'Big, sweet and tender. True dry-pack scallops from the icy waters of Alaska. About 8-10 per pound',
     price : 1684,
     status : 'unavailable'
   },
