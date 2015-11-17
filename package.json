@@ -1,0 +1,19 @@
+{
+  "name": "cm-catch-of-the-day",
+  "version": "1.0.0",
+  "description": "Faux site for learning React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clintmilner/cm-catch-of-the-day.git"
+  },
+  "author": "Clint Milner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clintmilner/cm-catch-of-the-day/issues"
+  },
+  "homepage": "https://github.com/clintmilner/cm-catch-of-the-day"
+}
